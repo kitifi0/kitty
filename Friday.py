@@ -1,4 +1,3 @@
-!pip install -q streamlit
 !npm install localtunnel 
 %%writefile app.py
   
